@@ -1,0 +1,40 @@
+{
+    "CurrMaxID": 6,
+    "Users": [
+        {
+            "id": 2,
+            "FirstName": "Ivan",
+            "SecondName": "Ivanov",
+            "Age": 30,
+            "City": "Moscow"
+        },
+        {
+            "id": 3,
+            "FirstName": "Vasya",
+            "SecondName": "Vasiliev",
+            "Age": 50,
+            "City": "Samara"
+        },
+        {
+            "id": 4,
+            "FirstName": "Vasya",
+            "SecondName": "Vasiliev",
+            "Age": 50,
+            "City": "Samara"
+        },
+        {
+            "id": 5,
+            "FirstName": "Ivan",
+            "SecondName": "Ivanov",
+            "Age": 30,
+            "City": "Moscow"
+        },
+        {
+            "id": 6,
+            "FirstName": "Ivan",
+            "SecondName": "Ivanov",
+            "Age": 30,
+            "City": "Moscow"
+        }
+    ]
+}
